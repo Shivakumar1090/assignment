@@ -1,0 +1,31 @@
+.container {
+    margin: 20px;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.title{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5px;
+}
+
+.list-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.list{
+    display: block;
+}
+.img{
+    width: 16px;
+    height: 16px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
